@@ -1,4 +1,4 @@
-package com.plennegy.plennegylibrary;
+package com.plenneg;
 
 public class AppUser
 {
