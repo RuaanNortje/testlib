@@ -1,0 +1,3 @@
+include ':bilygennelp'
+include ':app'
+rootProject.name = "Plennegy Library"
