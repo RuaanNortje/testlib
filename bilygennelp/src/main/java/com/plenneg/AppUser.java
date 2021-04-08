@@ -2,12 +2,12 @@ package com.plenneg;
 
 public class AppUser
 {
-   private String userName;
-    private String userEmail;
-    private String userPassword;
-    private String userRole;
-    private String userCell;
-    private String userApplication;
+    public String userName;
+    public String userEmail;
+    public String userPassword;
+    public String userRole;
+    public String userCell;
+    public String userApplication;
     
     public AppUser()
     {
